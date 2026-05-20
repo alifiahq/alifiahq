@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alifia</h1>
+<h1 align="center">Hi, I'm Alifia</h1>
 <h3 align="center">A passionate student interested in Cybersecurity</h3>
 
-- 🔭 I’m currently working on **A Summer 2026 portfolio focused on SQL, data analysis, dashboards, and cyber risk reporting**
+- I’m currently working on **A Summer 2026 portfolio focused on SQL, data analysis, dashboards, and cyber risk reporting**
 
-- 🌱 I’m currently learning **SQL Server, Excel, Python, Power BI, Tableau, and IT audit fundamentals**
+- I’m currently learning **SQL Server, Excel, Python, Power BI, Tableau, and IT audit fundamentals**
 
-- ⚡ Fun fact **I won 3rd place in a KPMG-sponsored cybersecurity challenge with my AIS team.**
+- Fun fact **I won 3rd place in a KPMG-sponsored cybersecurity challenge with my AIS team.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
